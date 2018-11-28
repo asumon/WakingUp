@@ -100,8 +100,6 @@ int tempo[] = {
 
 void loop() {
   // put your main code here, to run repeatedly:
- //currentmillis  = millis();
-
 
 
 for (int x = 0; x < LED_COUNT; x++)
@@ -115,22 +113,20 @@ for (int x = 0; x < LED_COUNT; x++)
         {
           
         colorStep();
-     //   colorful();
-             break;
+              break;
             
         }
         case (1):
         
         {
-    //    colorful();
+       colorful();
          break;
          
         }
          case (2):
         {
-      //   melodySong();
-    //  colorful();
-             break;
+         melodySong();
+         break;
             
          }
           case (3):
