@@ -1,11 +1,15 @@
 # EXPLORING GENTLE WAYS TO WAKEUP
-An automatic lamp that wakes you up in the morning. The LED brightness turns up gradually over the course of 15 minutes, to ensure a gentle wakeup.
+An automatic lamp that wakes you up in the morning. The LED brightness turns up gradually over the course of 20 minutes, to ensure a gentle wakeup.
 
 ![The lamp](https://github.com/nicolaielhoj/wakeup-lamp/blob/master/UNADJUSTEDNONRAW_thumb_86d5.jpg)
 
 # Step 1: Build the circuit
 
 ![Schematics](https://github.com/nicolaielhoj/wakeup-lamp/blob/master/lamp%20schematic.png)
+
+# Step 2: Re-designed the circuit
+
+![Schematics](https://github.com/asumon/WakingUp/blob/master/speakerLED.png)
 
 # Step 2: Assemble the laser cut box, and attach LED strip
 
